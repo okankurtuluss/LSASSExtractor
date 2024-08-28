@@ -25,4 +25,11 @@ LSASSExtractor requires the Windows SDK for development and can be compiled usin
 
 ### PoC
 
+![](https://github.com/okankurtuluss/LSASSExtractor/blob/okankurtuluss/main/screenshots/defender.png)
+
+![](https://github.com/okankurtuluss/LSASSExtractor/blob/okankurtuluss/main/screenshots/LSASSExtractor-dump.png)
+
+### Antivirus Scan
+
+![](https://github.com/okankurtuluss/LSASSExtractor/blob/okankurtuluss/main/screenshots/antivirus-scan.png)
 
