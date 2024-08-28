@@ -29,6 +29,8 @@ LSASSExtractor requires the Windows SDK for development and can be compiled usin
 
 ![](https://github.com/okankurtuluss/LSASSExtractor/blob/okankurtuluss/main/screenshots/LSASSExtractor-dump.png)
 
+![](https://github.com/okankurtuluss/LSASSExtractor/blob/okankurtuluss/main/screenshots/mimikatz.png)
+
 ### Antivirus Scan
 
 ![](https://github.com/okankurtuluss/LSASSExtractor/blob/okankurtuluss/main/screenshots/antivirus-scan.png)
